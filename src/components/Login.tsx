@@ -42,7 +42,7 @@ export default function Login() {
         <CardHeader className="space-y-2 flex flex-col items-center">
           <div className="w-24 h-24 mb-2 rounded-full overflow-hidden bg-blue-800">
             <img
-              src="/bjt_logo.png"
+              src="/bjt_logo_new.png"
               alt="Berkah Jaya Transport Logo"
               className="w-full h-full object-cover"
             />
